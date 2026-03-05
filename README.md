@@ -1,4 +1,5 @@
 CPE Data Collection and RESTful API Development
+
 1. Objective
 This project is designed to evaluate the ability to work with large-scale XML data, interact with persistent databases, and build a high-performance RESTful API. The system retrieves data from the official NIST CPE (Common Platform Enumeration) dictionary, extracts specific attributes, and stores them in a PostgreSQL database for efficient querying.
 
